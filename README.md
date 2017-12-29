@@ -1,11 +1,12 @@
-# More on Memory 
+# Memory Mapped I/O
 
 In this lab tutorial, we will introduce following contents:
 
-- Shared Memory 
-- mmap
-- Pinning the Pages
-- Memory Fence
+* mmap
+* Pinning the Pages
+* Memory Fence
 
---------
-by Tang LU, Pengfei ZHANG(pfzhang@cse.cuhk.edu.hk)
+---
+
+by Tang LU, Pengfei ZHANG\(pfzhang@cse.cuhk.edu.hk\)
+
